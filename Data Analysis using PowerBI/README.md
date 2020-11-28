@@ -12,13 +12,13 @@
 
 1. Show all customer records
 
-```sql
+    ```sql
     SELECT * FROM customers;
     ```
 
 1. Show total number of customers
 
-    ```sql
+   ```sql
     SELECT count(*) FROM customers;
     ```
 
